@@ -36,7 +36,7 @@ namespace SpaceToken.Galaxy
             _meshFilter = GetComponent<MeshFilter>();
         }
 
-        public void SelectSector(TargetData target, Mesh mesh, Material material)
+        public void SelectSector(TargetData target, Mesh mesh)
         {
             var newMesh = new Mesh
             {
@@ -58,9 +58,8 @@ namespace SpaceToken.Galaxy
             newMesh.vertices = vertices;
 
             _meshFilter.mesh = newMesh;
-            _meshRenderer.material = material;
             _meshRenderer.enabled = true;
-            uiInfoController.SetSectorData(target.id);
+            uiInfoController.SetSectorData(target.id, target.data);
         }
 
         public void HideSector()
@@ -69,12 +68,16 @@ namespace SpaceToken.Galaxy
             uiInfoController.HideSectorData();
         }
 
+        
+        /// <summary>
+        /// Return mid point for the mesh by x and Y axis
+        /// </summary>
         private Vector3 GetMeshMidPoint(Vector3[] vertices)
         {
             float maxX = float.MinValue;
-            float maxZ = float.MinValue;
+            float maxY = float.MinValue;
             float minX = float.MaxValue;
-            float minZ = float.MaxValue;
+            float minY = float.MaxValue;
 
             for (var i = 0; i < vertices.Length; i++)
             {
@@ -83,9 +86,9 @@ namespace SpaceToken.Galaxy
                     maxX = vertices[i].x;
                 }
 
-                if (maxZ < vertices[i].z)
+                if (maxY < vertices[i].y)
                 {
-                    maxZ = vertices[i].z;
+                    maxY = vertices[i].y;
                 }
 
                 if (minX > vertices[i].x)
@@ -93,13 +96,13 @@ namespace SpaceToken.Galaxy
                     minX = vertices[i].x;
                 }
 
-                if (minZ > vertices[i].z)
+                if (minY > vertices[i].y)
                 {
-                    minZ = vertices[i].z;
+                    minY = vertices[i].y;
                 }
             }
 
-            return new Vector3(minX + ((maxX - minX) / 2), 0, minZ + ((maxZ - minZ) / 2));
+            return new Vector3(minX + ((maxX - minX) / 2), minY + ((maxY - minY) / 2), 0 );
         }
     }
 }
