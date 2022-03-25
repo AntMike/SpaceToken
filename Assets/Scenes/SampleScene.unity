@@ -649,81 +649,241 @@ PrefabInstance:
     m_TransformParent: {fileID: 1215181137}
     m_Modifications:
     - target: {fileID: 28119453424399200, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 28119453424399200, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 28119453424399200, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 324783122694520824, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 324783122694520824, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 324783122694520824, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 711969675356046316, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 711969675356046316, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 711969675356046316, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 1118823788499125377, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1118823788499125377, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1118823788499125377, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 1252809067028098981, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1252809067028098981, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1252809067028098981, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 1569475090148754268, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1569475090148754268, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1569475090148754268, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 1698080574480576649, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1698080574480576649, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1698080574480576649, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 2452777429977098704, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2452777429977098704, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2452777429977098704, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 3273682768902531922, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3273682768902531922, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3273682768902531922, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 3341355994161181374, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3341355994161181374, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3341355994161181374, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 3451193335504148354, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3451193335504148354, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3451193335504148354, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 3732319881476002705, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3732319881476002705, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3732319881476002705, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 4236977168878946951, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236977168878946951, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236977168878946951, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 4651027555569028736, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4651027555569028736, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4651027555569028736, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 5095241061937981443, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5095241061937981443, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5095241061937981443, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 6013559011907114119, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013559011907114119, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6013559011907114119, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 6208110572433008742, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6208110572433008742, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6208110572433008742, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 6443482258544669619, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6443482258544669619, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6443482258544669619, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 6636766741131538907, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6636766741131538907, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6636766741131538907, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 7121675519333299765, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7121675519333299765, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7121675519333299765, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -731,6 +891,14 @@ PrefabInstance:
     - target: {fileID: 7174872525253729043, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Name
       value: sectors (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7501062128790653543, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7501062128790653543, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7501062128790653543, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -793,21 +961,61 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7566742723578036153, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7566742723578036153, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7566742723578036153, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 7655111680164683452, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7655111680164683452, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7655111680164683452, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 7981888914716502769, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981888914716502769, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7981888914716502769, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
     - target: {fileID: 8560837180516750114, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8560837180516750114, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8560837180516750114, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: df610c51324cc864b9a1f20efa58cc2f, type: 2}
+    - target: {fileID: 9185654925082623679, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9185654925082623679, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9185654925082623679, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -921,16 +1129,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 17
+  id: 25
   data:
-    sectorName: Sector 18
-    planetsDiscovered: 354
-    landsActive: 321
-    creatureDiscovered: 54
-    safarisAvailable: 64
-    questsToComplete: 156
-    activePlayers: 2000
-    communityProgress: 1
+    sectorName: Sector 25
+    planetsDiscovered: 937
+    landsActive: 264
+    creatureDiscovered: 325
+    safarisAvailable: 628
+    questsToComplete: 398
+    activePlayers: 77
+    communityProgress: 0.5909303
 --- !u!114 &384357320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -943,8 +1151,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357321
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -971,16 +1177,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 16
+  id: 24
   data:
-    sectorName: Sector 17
-    planetsDiscovered: 6513
-    landsActive: 321
-    creatureDiscovered: 320
-    safarisAvailable: 354
-    questsToComplete: 561
-    activePlayers: 321
-    communityProgress: 0.9411765
+    sectorName: Sector 24
+    planetsDiscovered: 25
+    landsActive: 480
+    creatureDiscovered: 194
+    safarisAvailable: 150
+    questsToComplete: 315
+    activePlayers: 235
+    communityProgress: 0.9328706
 --- !u!114 &384357323
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -993,8 +1199,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357324
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1021,16 +1225,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 15
+  id: 23
   data:
-    sectorName: Sector 16
-    planetsDiscovered: 354
-    landsActive: 8415
-    creatureDiscovered: 213
-    safarisAvailable: 6841
-    questsToComplete: 20156
-    activePlayers: 31
-    communityProgress: 0.88235295
+    sectorName: Sector 23
+    planetsDiscovered: 429
+    landsActive: 929
+    creatureDiscovered: 798
+    safarisAvailable: 344
+    questsToComplete: 866
+    activePlayers: 526
+    communityProgress: 0.08116627
 --- !u!114 &384357326
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1043,8 +1247,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357327
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1071,16 +1273,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 14
+  id: 22
   data:
-    sectorName: Sector 15
-    planetsDiscovered: 351
-    landsActive: 64
-    creatureDiscovered: 86
-    safarisAvailable: 12
-    questsToComplete: 0
-    activePlayers: 85
-    communityProgress: 0.8235294
+    sectorName: Sector 22
+    planetsDiscovered: 754
+    landsActive: 875
+    creatureDiscovered: 924
+    safarisAvailable: 770
+    questsToComplete: 274
+    activePlayers: 527
+    communityProgress: 0.33196825
 --- !u!114 &384357329
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1093,8 +1295,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357330
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1121,16 +1321,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 13
+  id: 21
   data:
-    sectorName: Sector 14
-    planetsDiscovered: 351
-    landsActive: 549
-    creatureDiscovered: 51
-    safarisAvailable: 35
-    questsToComplete: 95
-    activePlayers: 36
-    communityProgress: 0.7647059
+    sectorName: Sector 21
+    planetsDiscovered: 76
+    landsActive: 524
+    creatureDiscovered: 188
+    safarisAvailable: 670
+    questsToComplete: 118
+    activePlayers: 399
+    communityProgress: 0.64939606
 --- !u!114 &384357332
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1143,8 +1343,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357333
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1171,16 +1369,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 12
+  id: 20
   data:
-    sectorName: Sector 13
-    planetsDiscovered: 231
-    landsActive: 654
-    creatureDiscovered: 84
-    safarisAvailable: 651
-    questsToComplete: 3
-    activePlayers: 58
-    communityProgress: 0.7058824
+    sectorName: Sector 20
+    planetsDiscovered: 399
+    landsActive: 141
+    creatureDiscovered: 237
+    safarisAvailable: 116
+    questsToComplete: 532
+    activePlayers: 362
+    communityProgress: 0.77420866
 --- !u!114 &384357335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1193,8 +1391,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357336
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1221,16 +1417,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 11
+  id: 19
   data:
-    sectorName: Sector 12
-    planetsDiscovered: 321
-    landsActive: 58
-    creatureDiscovered: 654
-    safarisAvailable: 874
-    questsToComplete: 621
-    activePlayers: 56
-    communityProgress: 0.64705884
+    sectorName: Sector 19
+    planetsDiscovered: 917
+    landsActive: 159
+    creatureDiscovered: 851
+    safarisAvailable: 824
+    questsToComplete: 534
+    activePlayers: 408
+    communityProgress: 0.313837
 --- !u!114 &384357338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1243,8 +1439,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357339
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1271,16 +1465,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 10
+  id: 18
   data:
-    sectorName: Sector 11
-    planetsDiscovered: 312
-    landsActive: 564
-    creatureDiscovered: 123
-    safarisAvailable: 54
-    questsToComplete: 5
-    activePlayers: 3214
-    communityProgress: 0.5882353
+    sectorName: Sector 18
+    planetsDiscovered: 887
+    landsActive: 532
+    creatureDiscovered: 742
+    safarisAvailable: 983
+    questsToComplete: 434
+    activePlayers: 647
+    communityProgress: 0.6086896
 --- !u!114 &384357341
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1293,8 +1487,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357342
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1321,16 +1513,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 9
+  id: 17
   data:
-    sectorName: Sector 10
-    planetsDiscovered: 21
-    landsActive: 654
-    creatureDiscovered: 8641
-    safarisAvailable: 321
-    questsToComplete: 321
-    activePlayers: 15
-    communityProgress: 0.5294118
+    sectorName: Sector 17
+    planetsDiscovered: 824
+    landsActive: 196
+    creatureDiscovered: 987
+    safarisAvailable: 995
+    questsToComplete: 201
+    activePlayers: 482
+    communityProgress: 0.22822702
 --- !u!114 &384357344
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1343,8 +1535,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357345
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1371,16 +1561,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 8
+  id: 16
   data:
-    sectorName: Sector 9
-    planetsDiscovered: 555
-    landsActive: 3210
-    creatureDiscovered: 212
-    safarisAvailable: 500
-    questsToComplete: 3210
-    activePlayers: 321
-    communityProgress: 0.47058824
+    sectorName: Sector 16
+    planetsDiscovered: 576
+    landsActive: 472
+    creatureDiscovered: 454
+    safarisAvailable: 186
+    questsToComplete: 370
+    activePlayers: 513
+    communityProgress: 0.2503361
 --- !u!114 &384357347
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1393,8 +1583,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357348
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1421,16 +1609,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 7
+  id: 15
   data:
-    sectorName: Sector 8
-    planetsDiscovered: 555
-    landsActive: 1000
-    creatureDiscovered: 2000
-    safarisAvailable: 10000
-    questsToComplete: 3
-    activePlayers: 8
-    communityProgress: 0.4117647
+    sectorName: Sector 15
+    planetsDiscovered: 206
+    landsActive: 686
+    creatureDiscovered: 268
+    safarisAvailable: 911
+    questsToComplete: 577
+    activePlayers: 419
+    communityProgress: 0.20157766
 --- !u!114 &384357350
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1443,8 +1631,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357351
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1471,16 +1657,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 6
+  id: 14
   data:
-    sectorName: Sector 7
-    planetsDiscovered: 3
-    landsActive: 10
-    creatureDiscovered: 50
-    safarisAvailable: 90
-    questsToComplete: 60
-    activePlayers: 2
-    communityProgress: 0.3529412
+    sectorName: Sector 14
+    planetsDiscovered: 605
+    landsActive: 257
+    creatureDiscovered: 895
+    safarisAvailable: 876
+    questsToComplete: 534
+    activePlayers: 152
+    communityProgress: 0.12424457
 --- !u!114 &384357353
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1493,8 +1679,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357354
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1521,16 +1705,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 5
+  id: 13
   data:
-    sectorName: Sector 1
-    planetsDiscovered: 30
-    landsActive: 2
-    creatureDiscovered: 50
-    safarisAvailable: 123
-    questsToComplete: 3
-    activePlayers: 0
-    communityProgress: 0.29411766
+    sectorName: Sector 13
+    planetsDiscovered: 819
+    landsActive: 191
+    creatureDiscovered: 886
+    safarisAvailable: 954
+    questsToComplete: 901
+    activePlayers: 974
+    communityProgress: 0.45433062
 --- !u!114 &384357356
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1543,8 +1727,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357357
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1571,16 +1753,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 4
+  id: 12
   data:
-    sectorName: Sector 5
-    planetsDiscovered: 10
-    landsActive: 20
-    creatureDiscovered: 3
-    safarisAvailable: 1
-    questsToComplete: 5
-    activePlayers: 8
-    communityProgress: 0.23529412
+    sectorName: Sector 12
+    planetsDiscovered: 932
+    landsActive: 944
+    creatureDiscovered: 64
+    safarisAvailable: 313
+    questsToComplete: 381
+    activePlayers: 827
+    communityProgress: 0.52729875
 --- !u!114 &384357359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1593,8 +1775,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357360
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1621,16 +1801,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 3
+  id: 11
   data:
-    sectorName: Sector 4
-    planetsDiscovered: 1
-    landsActive: 20
-    creatureDiscovered: 100
-    safarisAvailable: 5
-    questsToComplete: 30
-    activePlayers: 3
-    communityProgress: 0.1764706
+    sectorName: Sector 11
+    planetsDiscovered: 721
+    landsActive: 171
+    creatureDiscovered: 618
+    safarisAvailable: 927
+    questsToComplete: 506
+    activePlayers: 396
+    communityProgress: 0.2588938
 --- !u!114 &384357362
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1643,8 +1823,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357363
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1671,16 +1849,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 2
+  id: 10
   data:
-    sectorName: Sector 3
-    planetsDiscovered: 100
-    landsActive: 200
-    creatureDiscovered: 222
-    safarisAvailable: 111
-    questsToComplete: 2
-    activePlayers: 10
-    communityProgress: 0.11764706
+    sectorName: Sector 10
+    planetsDiscovered: 350
+    landsActive: 150
+    creatureDiscovered: 37
+    safarisAvailable: 535
+    questsToComplete: 257
+    activePlayers: 175
+    communityProgress: 0.32294708
 --- !u!114 &384357365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1693,8 +1871,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357366
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1721,16 +1897,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 1
+  id: 9
   data:
-    sectorName: Sector 2
-    planetsDiscovered: 20
-    landsActive: 40
-    creatureDiscovered: 50
-    safarisAvailable: 70
-    questsToComplete: 100
-    activePlayers: 200
-    communityProgress: 0.05882353
+    sectorName: Sector 9
+    planetsDiscovered: 204
+    landsActive: 299
+    creatureDiscovered: 700
+    safarisAvailable: 523
+    questsToComplete: 695
+    activePlayers: 51
+    communityProgress: 0.27836925
 --- !u!114 &384357368
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1743,8 +1919,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357369
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1771,16 +1945,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  id: 0
+  id: 8
   data:
-    sectorName: Sector 1
-    planetsDiscovered: 10
-    landsActive: 12
-    creatureDiscovered: 10
-    safarisAvailable: 20
-    questsToComplete: 100
-    activePlayers: 3
-    communityProgress: 0
+    sectorName: Sector 8
+    planetsDiscovered: 996
+    landsActive: 786
+    creatureDiscovered: 191
+    safarisAvailable: 244
+    questsToComplete: 469
+    activePlayers: 311
+    communityProgress: 0.76927125
 --- !u!114 &384357371
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1793,8 +1967,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultMaterial: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
-  selectedMaterial: {fileID: 2100000, guid: 3f1f43b526b643e4981566941acf52b5, type: 2}
 --- !u!64 &384357372
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1988,6 +2160,430 @@ MonoBehaviour:
   constellations: {fileID: 2100000, guid: 975c53f30c0bef044824ec55038a2d7b, type: 2}
   lines: {fileID: 2100000, guid: c9cfe297fc9e6154e9b046165360df0f, type: 2}
   empty: {fileID: 2100000, guid: 7be1759f459471d4dbc42692d87a3c6e, type: 2}
+--- !u!1 &384357401 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 83045027091199984, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+  m_PrefabInstance: {fileID: 384357299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &384357402 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4490126171637119626, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+  m_PrefabInstance: {fileID: 384357299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &384357403 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7603955307940895995, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+  m_PrefabInstance: {fileID: 384357299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &384357404 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 559571896520716051, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+  m_PrefabInstance: {fileID: 384357299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &384357405 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4087148982744388768, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+  m_PrefabInstance: {fileID: 384357299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &384357406 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5148354866772233599, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+  m_PrefabInstance: {fileID: 384357299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &384357407 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2204285202625719304, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+  m_PrefabInstance: {fileID: 384357299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &384357408 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2633900816122288319, guid: 0b5eaddbf6c085843a501e43e812f583, type: 3}
+  m_PrefabInstance: {fileID: 384357299}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &384357409
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &384357410
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357401}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6531525120215824829, guid: db8591f65d061d04aa0ea3b14bd66796, type: 3}
+--- !u!114 &384357411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &384357412
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357402}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -1198743231517016826, guid: db8591f65d061d04aa0ea3b14bd66796, type: 3}
+--- !u!114 &384357413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &384357414
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357403}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5854088795082504319, guid: db8591f65d061d04aa0ea3b14bd66796, type: 3}
+--- !u!114 &384357415
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &384357416
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357404}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7567532504055388576, guid: db8591f65d061d04aa0ea3b14bd66796, type: 3}
+--- !u!114 &384357417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &384357418
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357405}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6857689473578963052, guid: db8591f65d061d04aa0ea3b14bd66796, type: 3}
+--- !u!114 &384357419
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &384357420
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357406}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8792586484180348971, guid: db8591f65d061d04aa0ea3b14bd66796, type: 3}
+--- !u!114 &384357421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &384357422
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357407}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8999911773206952699, guid: db8591f65d061d04aa0ea3b14bd66796, type: 3}
+--- !u!114 &384357423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8d36da93e333154eba17bf011dbc679, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!64 &384357424
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357408}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8314571269056883277, guid: db8591f65d061d04aa0ea3b14bd66796, type: 3}
+--- !u!114 &384357425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357401}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 7
+  data:
+    sectorName: Sector 7
+    planetsDiscovered: 328
+    landsActive: 208
+    creatureDiscovered: 161
+    safarisAvailable: 612
+    questsToComplete: 775
+    activePlayers: 971
+    communityProgress: 0.010104775
+--- !u!114 &384357426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 6
+  data:
+    sectorName: Sector 6
+    planetsDiscovered: 635
+    landsActive: 296
+    creatureDiscovered: 506
+    safarisAvailable: 896
+    questsToComplete: 99
+    activePlayers: 846
+    communityProgress: 0.78708506
+--- !u!114 &384357427
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357403}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 5
+  data:
+    sectorName: Sector 5
+    planetsDiscovered: 74
+    landsActive: 191
+    creatureDiscovered: 350
+    safarisAvailable: 240
+    questsToComplete: 734
+    activePlayers: 799
+    communityProgress: 0.96940434
+--- !u!114 &384357428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357404}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 4
+  data:
+    sectorName: Sector 4
+    planetsDiscovered: 450
+    landsActive: 789
+    creatureDiscovered: 918
+    safarisAvailable: 750
+    questsToComplete: 220
+    activePlayers: 950
+    communityProgress: 0.018692851
+--- !u!114 &384357429
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 3
+  data:
+    sectorName: Sector 3
+    planetsDiscovered: 649
+    landsActive: 117
+    creatureDiscovered: 830
+    safarisAvailable: 86
+    questsToComplete: 63
+    activePlayers: 357
+    communityProgress: 0.79506063
+--- !u!114 &384357430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357406}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 2
+  data:
+    sectorName: Sector 2
+    planetsDiscovered: 665
+    landsActive: 728
+    creatureDiscovered: 208
+    safarisAvailable: 826
+    questsToComplete: 308
+    activePlayers: 581
+    communityProgress: 0.13974881
+--- !u!114 &384357431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357407}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 1
+  data:
+    sectorName: Sector 1
+    planetsDiscovered: 881
+    landsActive: 389
+    creatureDiscovered: 217
+    safarisAvailable: 300
+    questsToComplete: 119
+    activePlayers: 115
+    communityProgress: 0.47560602
+--- !u!114 &384357432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 384357408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb1ff9465f04a8c45b4669ac08d85e98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  data:
+    sectorName: Sector 0
+    planetsDiscovered: 896
+    landsActive: 618
+    creatureDiscovered: 599
+    safarisAvailable: 365
+    questsToComplete: 793
+    activePlayers: 849
+    communityProgress: 0.9461217
 --- !u!114 &474623869 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1143690591518464192, guid: 891502628ec6246478052c3a5979adb7, type: 3}
@@ -2504,8 +3100,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 870329641}
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: -0.7071068}
-  m_LocalPosition: {x: 1.36, y: 0, z: 1.95}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalPosition: {x: 1.8, y: 0, z: 1.95}
+  m_LocalScale: {x: 1.2, y: 1.2, z: 1.2}
   m_Children: []
   m_Father: {fileID: 527605242}
   m_RootOrder: 0

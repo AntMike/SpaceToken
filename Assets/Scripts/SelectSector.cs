@@ -9,9 +9,6 @@ public class SelectSector : MonoBehaviour
 {
     private MeshFilter _filter;
     private TargetData _target;
-
-    [SerializeField] private Material defaultMaterial;
-    [SerializeField] private Material selectedMaterial;
     
     // Start is called before the first frame update
     void Start()

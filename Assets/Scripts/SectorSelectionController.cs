@@ -16,6 +16,7 @@ namespace SpaceToken.Galaxy
         
         private MeshRenderer _meshRenderer;
         private MeshFilter _meshFilter;
+        private Vector3 _initialPosition;
 
         private void Awake()
         {
@@ -34,6 +35,8 @@ namespace SpaceToken.Galaxy
         {
             _meshRenderer = GetComponent<MeshRenderer>();
             _meshFilter = GetComponent<MeshFilter>();
+
+            _initialPosition = transform.localPosition;
         }
 
         public void SelectSector(TargetData target, Mesh mesh)
@@ -46,6 +49,7 @@ namespace SpaceToken.Galaxy
                 uv = mesh.uv,
                 normals = mesh.normals
             };
+            
             var vertices = newMesh.vertices;
 
             var diff = GetMeshMidPoint(vertices);
